@@ -1,0 +1,12 @@
+{
+  "name": "a523250619/test",
+  "description": "a523250619/test",
+  "keywords": [
+    "a523250619"
+  ],
+  "autoload": {
+    "psr-4": {
+      "a523250619\\": "src/"
+    }
+  }
+}
